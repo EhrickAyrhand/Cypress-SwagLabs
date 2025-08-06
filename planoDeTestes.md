@@ -5,5 +5,3 @@ Name(A to Z)
 Name(Z to A)
 Price(Low to High)
 Price(High to Low)
-
-# Criar verificação de valores finais

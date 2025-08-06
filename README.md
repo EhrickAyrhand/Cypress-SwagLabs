@@ -12,6 +12,8 @@ Foi desenvolvido com foco em boas práticas de QA, seguindo padrões do mercado 
 ✅ Adição de produtos ao carrinho  
 ✅ Remoção de produtos do carrinho  
 ✅ Validação de quantidade de itens
+✅ Finalização da compra
+✅ Verificação de preço final
 
 ---
 
